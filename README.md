@@ -1,3 +1,12 @@
+Different open source frameworks for tracing & observability -
+1. [MLFlow](https://mlflow.org/docs/latest/tracing/ui)
+2. [OpenTelimetry](https://opentelemetry.io/docs/concepts/signals/traces/)
+3. [LangFuse](https://langfuse.com/)
+4. [Arize AI - Phoenix](https://arize.com/docs/phoenix/tracing/llm-traces)
+5. [TruLens](https://www.trulens.org/component_guides/instrumentation/)
+6. [Jaeger](https://www.jaegertracing.io/)
+
+
 # 1. Tracing with MLFlow
 
 **Set up -**
@@ -27,10 +36,4 @@
 * https://mlflow.org/docs/latest/tracing/api/search 
 
 
-
-Other open source frameworks for tracing & observability -
-1. [OpenTelimetry](https://opentelemetry.io/docs/concepts/signals/traces/)
-2. [LangFuse](https://langfuse.com/)
-3. [Arize AI - Phoenix](https://arize.com/docs/phoenix/tracing/llm-traces)
-4. [TruLens](https://www.trulens.org/component_guides/instrumentation/)
 
