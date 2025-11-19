@@ -1,6 +1,6 @@
 Different open source frameworks for tracing & observability -
 1. [MLFlow](https://mlflow.org/docs/latest/tracing/ui)
-2. [OpenTelimetry](https://opentelemetry.io/docs/concepts/signals/traces/)
+2. [OpenTelemetry](https://opentelemetry.io/docs/concepts/signals/traces/)
 3. [LangFuse](https://langfuse.com/)
 4. [Arize AI - Phoenix](https://arize.com/docs/phoenix/tracing/llm-traces)
 5. [TruLens](https://www.trulens.org/component_guides/instrumentation/)
