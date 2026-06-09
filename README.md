@@ -2,7 +2,7 @@ Different open source frameworks for tracing & observability -
 1. [MLFlow](https://mlflow.org/docs/latest/tracing/ui)
 2. [OpenTelemetry](https://opentelemetry.io/docs/concepts/signals/traces/)
 3. [LangFuse](https://langfuse.com/)
-4. [Arize AI - Phoenix](https://arize.com/docs/phoenix/tracing/llm-traces)
+4. [Arize AI - Phoenix](https://arize.com/docs/phoenix/tracing/llm-traces) - AI observability and evaluation
 5. [TruLens](https://www.trulens.org/component_guides/instrumentation/)
 6. [Jaeger](https://www.jaegertracing.io/)
 
@@ -33,7 +33,16 @@ Different open source frameworks for tracing & observability -
 * https://mlflow.org/docs/latest/tracing/ui
 * https://mlflow.org/docs/latest/tracing
 * https://mlflow.org/docs/latest/tracking/server/
-* https://mlflow.org/docs/latest/tracing/api/search 
+* https://mlflow.org/docs/latest/tracing/api/search
+
+
+# 2. Phoenix 
+* Setup - Send traces from your app - https://arize.com/docs/phoenix/get-started/get-started-tracing
+  *  Also Supports self-hosting - https://arize.com/docs/phoenix/self-hosting/deployment-options/terminal
+*  Cookbooks - https://arize.com/docs/phoenix/cookbook
+*  Log evaluations - https://arize.com/docs/phoenix/tracing/how-to-tracing/feedback-and-annotations/llm-evaluations
+
+
 
 
 
