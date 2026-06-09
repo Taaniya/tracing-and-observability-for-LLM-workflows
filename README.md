@@ -50,6 +50,7 @@ Different open source frameworks for tracing & observability -
 **References -**
   * Send traces from your app - https://arize.com/docs/phoenix/get-started/get-started-tracing
   * Also Supports self-hosting - https://arize.com/docs/phoenix/self-hosting/deployment-options/terminal
+     * Customize self-hosted deployment - Env variables - https://arize.com/docs/phoenix/self-hosting/configuration#environment-variables
   * Enable tracing from google-adk agentic flows - https://arize.com/docs/phoenix/integrations/python/google-adk/google-adk-tracing
 *  Cookbooks - https://arize.com/docs/phoenix/cookbook
 *  Log evaluations - https://arize.com/docs/phoenix/tracing/how-to-tracing/feedback-and-annotations/llm-evaluations
