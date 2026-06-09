@@ -37,7 +37,8 @@ Different open source frameworks for tracing & observability -
 
 
 # 2. Phoenix 
-* Setup (self-hosting)-
+* Setup (self-hosting) -
+  
    install phoenix tracing library in your local
    ```
    pip install arize-phoenix
