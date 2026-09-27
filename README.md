@@ -55,6 +55,12 @@ Different open source frameworks for tracing & observability -
   * Enable tracing from google-adk agentic flows - https://arize.com/docs/phoenix/integrations/python/google-adk/google-adk-tracing
 *  Cookbooks - https://arize.com/docs/phoenix/cookbook
 *  Log evaluations - https://arize.com/docs/phoenix/tracing/how-to-tracing/feedback-and-annotations/llm-evaluations
+*  Code instrument -
+      *  [Set up OTEL tracing](https://arize.com/docs/phoenix/tracing/how-to-tracing/setup-tracing/instrument#openinference-otel-tracing)
+* [Article - LLM Observability: LLM Observability: One Small Step for Spans, One Giant Leap for Span-Kinds (2023)](https://arize.com/blog-course/traces-spans-large-language-model-orchestration/)
+* [OTEL Span processor - docs](https://arize.com/docs/ax/concepts/otel-openinference/span-processor)
+* [OTEL integration - docs](https://arize.com/docs/ax/integrations/opentelemetry/opentelemetry-arize-otel)
+  
 
 
 
