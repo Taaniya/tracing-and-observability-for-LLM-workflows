@@ -60,6 +60,7 @@ Different open source frameworks for tracing & observability -
 * [Article - LLM Observability: LLM Observability: One Small Step for Spans, One Giant Leap for Span-Kinds (2023)](https://arize.com/blog-course/traces-spans-large-language-model-orchestration/)
 * [OTEL Span processor - docs](https://arize.com/docs/ax/concepts/otel-openinference/span-processor)
 * [OTEL integration - docs](https://arize.com/docs/ax/integrations/opentelemetry/opentelemetry-arize-otel)
+* [LangSmith vs. Langfuse](https://www.langchain.com/resources/langsmith-vs-langfuse)
   
 
 
